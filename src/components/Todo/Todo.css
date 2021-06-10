@@ -1,0 +1,8 @@
+.todoContainer {
+  margin-top: 15px;
+}
+
+.todoContainer .MuiPaper-root {
+  background-color: #5555FF;
+  color: white;
+}

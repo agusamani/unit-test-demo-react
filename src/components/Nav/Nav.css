@@ -1,0 +1,14 @@
+.toolbarNav {
+  justify-content: space-between;
+}
+.linkNav  {
+  text-decoration: none;
+}
+.nav {
+  height: 50px;
+}
+
+.toolbarNav a {
+  text-decoration: none;
+  color: white;
+}

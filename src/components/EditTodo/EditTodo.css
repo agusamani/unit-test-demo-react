@@ -1,0 +1,14 @@
+.todoBox {
+  margin: 10px;
+}
+
+.btns .MuiButton-root {
+  background-color: #5555FF;
+  color: white;
+  margin-left: 5px;
+}
+
+.btns .MuiButton-root:hover {
+  color: black;
+  border: 1px solid black;
+}

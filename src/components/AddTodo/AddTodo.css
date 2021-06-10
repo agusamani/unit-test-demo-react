@@ -1,0 +1,15 @@
+.entry-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+.entry-form label,
+.entry-form input,
+.entry-form textarea,
+.entry-form button {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  width: 50%;
+}
